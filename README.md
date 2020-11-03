@@ -1,9 +1,21 @@
-# iOS-Portfolio
-2018-2019 Portfolio
+# iOS Term 1 Portfolio 2020 - Jose Blanco
+ios-term-3-portfolio-2020-joseblanco-created by GitHub Classroom
 
-Using this space as the home base for your portfolio, make a wiki or pages like this read me to highlight what you have learned / created over this semester of class. You should consider this as much for your grade as your resume. You've got incredible work to highlight and brag about - do that here. 
+Hello, I'm Jose Blanco, and this is a portfolio for the apps and projects I have worked on during 2020. Starting in the 1st semester of the 2020-21 school year, I began learning Swift in my high school's iOS App Development class. Building on the fundamental coding principles I learned from programming in Java and Swift, I gained exposure to Swift syntax and XCode formatting through online videos and research.
 
-I'd like you to consider this assignment as a way to get a job / internship / independent contract with someone outside the school.
+In the apps I've worked on thus far, I've experimented with randomizers, UI displays (stack views, segues, view controllers),small amount of sprite kits, integrating formating object, drop down menus,  and incorporating logic based functions. Although these apps are functional there is alot i want to improve in these apps. However, it is a good start, and I believe it reflects my learning experience well. 
 
-Create links to group projects (create a new repo for completed apps) you've been working on, making sure the read me's have details about what the apps do in the format the app store asks - look at a couple apps to see what I'm talking about. Don't forget about those first simple apps you created - they still matter!
+## Programming Experience
+* Swift: Beginner/Intermediate (began late 2020)
+* Java: Intermediate (began 2019)
+* R: Beginner (began summer of 2020
+
+
+## Apps
+### [Landmarks]("github link")
+Landmarks is one of my favorite apps even though it is very beginner level because it was my first working project I made that also had pretty good formatting and use of Api's.
+
+### [Ephs App]("https://github.com/connorholm/EPHS-App") 
+The Ephs App is a group app that my classmates and I are working on to better our school. We have many features that we've added to the app such as, login page, tutorial page, assignments page, navigation menu, a profile page,and a club page. There is still much to work on this app but we have made many advancements so far.
+
 
