@@ -8,7 +8,7 @@ I've worked with about 5 apps so far each one dealing with something different s
 ## Programming Experience
 * Swift: Beginner/Intermediate (began late 2020)
 * Java: Intermediate (began 2019)
-* R: Beginner (began summer of 2020
+* R: Beginner (began summer of 2020)
 
 
 ## Apps
