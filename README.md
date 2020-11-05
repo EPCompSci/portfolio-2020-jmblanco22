@@ -12,10 +12,10 @@ I've worked with about 5 apps so far each one dealing with something different s
 
 
 ## Apps
-### [Landmarks]("https://docs.google.com/document/d/1-HpmWTEoHt5wqnfs8V4jOEjWCfZJ8b7pHqJt0a5nI3Y/edit?usp=sharing")
+### [Landmarks](https://docs.google.com/document/d/1-HpmWTEoHt5wqnfs8V4jOEjWCfZJ8b7pHqJt0a5nI3Y/edit?usp=sharing)
 Landmarks is one of my favorite apps even though it is very beginner level because it was my first working project I made that also had pretty good formatting and use of Api's.
 
-### [TravelApp]("https://docs.google.com/document/d/1jzvVsfyNLk7htkbyLGS3hg4fx2XLcssq0huZorRGEjM/edit?usp=sharing")
+### [TravelApp](https://docs.google.com/document/d/1jzvVsfyNLk7htkbyLGS3hg4fx2XLcssq0huZorRGEjM/edit?usp=sharing)
 This is an App I made for the congressional app challange, which was not fully finished but the idea of the app was there because it would give suggestions of places in the world and you could tap on them and it would tell you all about it and then you would hit book now if you liked the place.
 
 ### [Ephs App](https://github.com/connorholm/EPHS-App) 
