@@ -1,5 +1,5 @@
 # iOS Term 1-2 Portfolio 2020 - Jose Blanco
-ios-term-3-portfolio-2020-joseblanco-created by GitHub Classroom
+ios-term-1-2-portfolio-2020-joseblanco-created by GitHub Classroom
 
 Hello, I'm Jose Blanco, and this is a portfolio for the apps and projects I have worked on during 2020. Starting in the 1st semester of the 2020-21 school year, I began learning Swift in my high school's iOS App Development class. Building on the fundamental coding principles I learned from programming in Java and Swift, I gained exposure to Swift syntax and XCode formatting through online videos and research.
 
