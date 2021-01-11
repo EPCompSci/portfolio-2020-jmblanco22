@@ -6,7 +6,7 @@ Hello, I'm Jose Blanco, and this is a portfolio for the apps and projects I have
 I've worked with about 5 apps so far each one dealing with something different such as games,trivia games, landmarks, and helpful apps. Using Xcode I've experimented with randomizers, UI displays (stack views, segues, view controllers),small amount of sprite kits, integrating formating object, drop down menus,  and incorporating logic based functions. Although these apps are functional there is alot i want to improve in these apps. However, it is a good start, and I believe it reflects my learning experience well. 
 
 ## Programming Experience
-* Swift: Beginner/Intermediate (began late 2020)
+* Swift: Intermediate (began late 2020)
 * Java: Intermediate (began 2019)
 * R: Beginner (began summer of 2020)
 
