@@ -9,6 +9,8 @@ I've worked with about 5 apps so far each one dealing with something different s
 * Swift: Intermediate (began late 2020)
 * Java: Intermediate (began 2019)
 * R: Beginner (began summer of 2020)
+* Html: Intermediate(began late 2020)
+* Css: begginer(began 2021)
 
 
 ## Apps
