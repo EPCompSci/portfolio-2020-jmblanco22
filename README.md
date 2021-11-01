@@ -1,4 +1,4 @@
-#  Portfolio 2020 - Jose Blanco
+#  Portfolio 2021 - Jose Blanco
 ios-term-1-2-portfolio-2020-joseblanco-created by GitHub Classroom
 
 Hello, I'm Jose Blanco, and this is a portfolio for the apps and projects I have worked on during 2020. Starting in the 1st semester of the 2020-21 school year, I began learning Swift in my high school's iOS App Development class. Building on the fundamental coding principles I learned from programming in Java and Swift, I gained exposure to Swift syntax and XCode formatting through online videos and research.
@@ -10,7 +10,8 @@ I've worked with about 5 apps so far each one dealing with something different s
 * Java: Intermediate (began 2019)
 * R: Beginner (began summer of 2020)
 * Html: Intermediate(began late 2020)
-* Css: begginer(began 2021)
+* Css: Intermediate(began 2021)
+* Python: Intermediate (began late 2021)
 
 
 ## Apps
